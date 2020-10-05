@@ -1,0 +1,26 @@
+.heading-container {
+  text-align: center;
+  /* margin-top: 13%; */
+}
+
+.heading {
+  font-size: 90px;
+  color: white;
+}
+
+.heading-paragraph {
+  color: rgb(226, 214, 214);
+  margin-top: 10;
+}
+
+@media screen and (max-width: 900px) {
+  .heading {
+    font-size: 60px;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  .heading {
+    font-size: 45px;
+  }
+}

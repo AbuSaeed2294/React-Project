@@ -1,0 +1,10 @@
+.custom-btn {
+  background-color: rgb(149, 224, 35);
+  padding: 10px 30px 10px 30px;
+  border-radius: 10px;
+  /* width: 100px; */
+}
+
+.custom-btn:hover {
+  background-color: white;
+}

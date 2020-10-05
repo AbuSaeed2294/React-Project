@@ -1,0 +1,20 @@
+/* ******************** MAIN FOOTER ************************************************************** */
+.main-footer {
+  background-color: rgb(149, 224, 35);
+  height: 40vh;
+  text-align: center;
+  color: white;
+}
+
+/* footer text  */
+.main-footer h2 {
+  font-size: 35px;
+  padding-top: 100px;
+  margin-bottom: 15px;
+}
+
+@media screen and (max-width: 900px) {
+  .main-footer h2 {
+    font-size: 25px;
+  }
+}

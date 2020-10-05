@@ -1,0 +1,31 @@
+.main-login-page {
+  background-image: linear-gradient(
+      to bottom,
+      rgba(231, 142, 26, 0.52),
+      rgba(8, 2, 7, 0.73)
+    ),
+    url(../../assets//images/mountain.jpg);
+  height: 100vh;
+  background-position: center;
+  background-size: cover;
+}
+
+.main-login-form {
+  border: 2px solid rgb(241, 234, 219);
+  border-radius: 10px;
+  /* background-color: rgb(250, 247, 250); */
+  padding: 70px 50px 0 50px;
+  height: 70vh;
+  width: 60vh;
+  /* margin-top: 50px; */
+}
+
+.login-form-btn {
+  display: flex;
+
+  padding-top: 20px;
+}
+
+.register-btn {
+  margin-left: 20px;
+}

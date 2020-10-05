@@ -1,0 +1,73 @@
+/* *********************************** Mian NavBar ********************************************** */
+/* .main-nav {
+  display: flex;
+  justify-content: space-between;
+  color: white;
+} */
+
+/* NavBar Logo  */
+/* .nav-logo {
+  list-style-type: none;
+  margin: 20px;
+} */
+
+/* NavBar Items  */
+/* .nav-items {
+  display: flex;
+  list-style-type: none;
+}
+
+.nav-items li {
+  margin: 20px;
+} */
+
+/* NavBar horizatol line  */
+/* .navbar-line {
+  border: 0.5px solid rgb(155, 127, 127);
+}
+
+@media screen and (max-width: 600px) {
+  .nav-logo {
+    margin: 15px;
+  }
+
+  .nav-items li {
+    margin: 15px;
+  }
+} */
+/* 
+@media screen and (max-width: 400px) {
+  .nav-logo {
+    margin: 10px;
+  }
+
+  .nav-items li {
+    margin: 10px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .nav-logo {
+    margin: 5px;
+  }
+
+  .nav-items li {
+    margin: 5px;
+  }
+} */
+
+/* ************************ css for Bootstrap menu*************** */
+.nav-link-item {
+  /* background-color: red; */
+  font-size: 1.5em;
+  font-weight: 300;
+}
+
+#nav-link {
+  color: white;
+  text-decoration: none;
+}
+
+#nav-link:hover {
+  color: rgb(197, 184, 184);
+}
